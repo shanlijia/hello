@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("hello");
         System.out.println("hello wold\n");
         System.out.println("你好ya");
+        System.out.println("666");
     }
 }
