@@ -7,8 +7,9 @@ package com.company;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello");
-        System.out.println("hello wold\n");
+        System.out.println("hello wold\n");s
         System.out.println("你好ya");
         System.out.println("666");
+        System.out.println("888");
     }
 }
